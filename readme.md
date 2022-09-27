@@ -3,7 +3,7 @@
 this homework should help to deepen the topics components, props and arrays. Therefore you MUST use at least on `component` that you wrote, `props` and the given `array` to solve this homework.
 
 ## Prepare the quick homework
-- create a local a react app with the `npx` command, name it `quick-homework`
+- create a local react app with the `npx` command, name it `quick-homework`
 - after that, create an `assets` folder inside your `src` folder in your react folder structure and move the `persons.js` file (find it in Slack thread or download it here) into it
 - in your `App.js` file, copy this import line at the top of the file
 ```js
