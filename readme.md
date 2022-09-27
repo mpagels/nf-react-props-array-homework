@@ -21,6 +21,8 @@ import { persons } from "./assets/persons";
 
 ### Tips
 - see final app here: https://t9f65y.csb.app/
+- commit small steps and as much as possible (use meaningful commit messages)
+- you could try to use branches as well ;-)
 - no special styling is needed (execpt the background color ;-) )
 - create and use a component (like `<Person />` ) and pass `props` to it
 
